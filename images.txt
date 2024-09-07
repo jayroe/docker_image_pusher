@@ -6,5 +6,6 @@ mariadb:lts-ubi9
 jellyfin/jellyfin:2024072905
 jumpserver/jms_all:latest
 redis:4.0.11
+redis:7.4.0-alpine3.20
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
