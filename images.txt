@@ -6,5 +6,6 @@ mysql
 mysql:8.0.38
 mariadb:lts-ubi9
 jellyfin/jellyfin:2024072905
+jumpserver/jms_all:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
